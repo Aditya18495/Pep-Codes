@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Strings",
+        "HashMap And Heap",
+        "Graphs",
+        "Array",
+        "2-D Array",
+        "Leetcode"
+    ]
+}
